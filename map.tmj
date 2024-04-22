@@ -293,7 +293,7 @@
         {
          "draworder":"topdown",
          "id":64,
-         "name":"ZoneInteraction",
+         "name":"floorLayer",
          "objects":[
                 {
                  "height":253.333333333333,
